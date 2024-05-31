@@ -1,2 +1,2 @@
 # processor-epi-coreg
-EPI COREG Processor for Pennsieve IH Hackathon
+Epilepsy Coreg Freesurfer Processor for Pennsieve
